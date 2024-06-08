@@ -16,5 +16,11 @@ namespace AppInfrastructure.DBContext
         public DbSet<UserRole> UserRoles { get; set; }
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Comment> comments { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(BlogDBContext).Assembly);
+        }
     }
 }

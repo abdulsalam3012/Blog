@@ -1,7 +1,41 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Blog_Application\\BLOG_API\\API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D568EAF9-5F63-459C-B7E3-D51D6DE78979}|..\\ApplicationInfrastructure\\AppInfrastructure.csproj|d:\\blog_application\\blog_api\\applicationinfrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D568EAF9-5F63-459C-B7E3-D51D6DE78979}|..\\ApplicationInfrastructure\\AppInfrastructure.csproj|d:\\blog_application\\blog_api\\applicationinfrastructure\\configurations\\userroleconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D568EAF9-5F63-459C-B7E3-D51D6DE78979}|..\\ApplicationInfrastructure\\AppInfrastructure.csproj|d:\\blog_application\\blog_api\\applicationinfrastructure\\configurations\\roleconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D568EAF9-5F63-459C-B7E3-D51D6DE78979}|..\\ApplicationInfrastructure\\AppInfrastructure.csproj|d:\\blog_application\\blog_api\\applicationinfrastructure\\configurations\\commentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D568EAF9-5F63-459C-B7E3-D51D6DE78979}|..\\ApplicationInfrastructure\\AppInfrastructure.csproj|d:\\blog_application\\blog_api\\applicationinfrastructure\\configurations\\blogconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ACDA90-86BE-495C-86D2-D6417D74BFE5}|..\\DomainEntity\\AppDomain.csproj|d:\\blog_application\\blog_api\\domainentity\\entity\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ACDA90-86BE-495C-86D2-D6417D74BFE5}|..\\DomainEntity\\AppDomain.csproj|d:\\blog_application\\blog_api\\domainentity\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ACDA90-86BE-495C-86D2-D6417D74BFE5}|..\\DomainEntity\\AppDomain.csproj|d:\\blog_application\\blog_api\\domainentity\\entity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ACDA90-86BE-495C-86D2-D6417D74BFE5}|..\\DomainEntity\\AppDomain.csproj|d:\\blog_application\\blog_api\\domainentity\\entity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ACDA90-86BE-495C-86D2-D6417D74BFE5}|..\\DomainEntity\\AppDomain.csproj|d:\\blog_application\\blog_api\\domainentity\\entity\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D568EAF9-5F63-459C-B7E3-D51D6DE78979}|..\\ApplicationInfrastructure\\AppInfrastructure.csproj|d:\\blog_application\\blog_api\\applicationinfrastructure\\dbcontext\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +43,151 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\Blog_Application\\BLOG_API\\DomainEntity\\Entity\\Blog.cs",
+              "RelativeDocumentMoniker": "..\\DomainEntity\\Entity\\Blog.cs",
+              "ToolTip": "D:\\Blog_Application\\BLOG_API\\DomainEntity\\Entity\\Blog.cs",
+              "RelativeToolTip": "..\\DomainEntity\\Entity\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:18:32.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Blog_Application\\BLOG_API\\DomainEntity\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "..\\DomainEntity\\Entity\\User.cs",
+              "ToolTip": "D:\\Blog_Application\\BLOG_API\\DomainEntity\\Entity\\User.cs",
+              "RelativeToolTip": "..\\DomainEntity\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:15:29.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogConfigurations.cs",
+              "DocumentMoniker": "D:\\Blog_Application\\BLOG_API\\ApplicationInfrastructure\\Configurations\\BlogConfigurations.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationInfrastructure\\Configurations\\BlogConfigurations.cs",
+              "ToolTip": "D:\\Blog_Application\\BLOG_API\\ApplicationInfrastructure\\Configurations\\BlogConfigurations.cs",
+              "RelativeToolTip": "..\\ApplicationInfrastructure\\Configurations\\BlogConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:46:41.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentConfigurations.cs",
+              "DocumentMoniker": "D:\\Blog_Application\\BLOG_API\\ApplicationInfrastructure\\Configurations\\CommentConfigurations.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationInfrastructure\\Configurations\\CommentConfigurations.cs",
+              "ToolTip": "D:\\Blog_Application\\BLOG_API\\ApplicationInfrastructure\\Configurations\\CommentConfigurations.cs",
+              "RelativeToolTip": "..\\ApplicationInfrastructure\\Configurations\\CommentConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:54:36.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleConfigurations.cs",
+              "DocumentMoniker": "D:\\Blog_Application\\BLOG_API\\ApplicationInfrastructure\\Configurations\\RoleConfigurations.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationInfrastructure\\Configurations\\RoleConfigurations.cs",
+              "ToolTip": "D:\\Blog_Application\\BLOG_API\\ApplicationInfrastructure\\Configurations\\RoleConfigurations.cs",
+              "RelativeToolTip": "..\\ApplicationInfrastructure\\Configurations\\RoleConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:58:08.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRoleConfigurations.cs",
+              "DocumentMoniker": "D:\\Blog_Application\\BLOG_API\\ApplicationInfrastructure\\Configurations\\UserRoleConfigurations.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationInfrastructure\\Configurations\\UserRoleConfigurations.cs",
+              "ToolTip": "D:\\Blog_Application\\BLOG_API\\ApplicationInfrastructure\\Configurations\\UserRoleConfigurations.cs",
+              "RelativeToolTip": "..\\ApplicationInfrastructure\\Configurations\\UserRoleConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:07:42.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\Blog_Application\\BLOG_API\\ApplicationInfrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationInfrastructure\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\Blog_Application\\BLOG_API\\ApplicationInfrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "..\\ApplicationInfrastructure\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:46:11.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Blog_Application\\BLOG_API\\DomainEntity\\Entity\\Role.cs",
+              "RelativeDocumentMoniker": "..\\DomainEntity\\Entity\\Role.cs",
+              "ToolTip": "D:\\Blog_Application\\BLOG_API\\DomainEntity\\Entity\\Role.cs",
+              "RelativeToolTip": "..\\DomainEntity\\Entity\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:59:51.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Blog_Application\\BLOG_API\\DomainEntity\\Entity\\UserRole.cs",
+              "RelativeDocumentMoniker": "..\\DomainEntity\\Entity\\UserRole.cs",
+              "ToolTip": "D:\\Blog_Application\\BLOG_API\\DomainEntity\\Entity\\UserRole.cs",
+              "RelativeToolTip": "..\\DomainEntity\\Entity\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:15:53.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Blog_Application\\BLOG_API\\DomainEntity\\Entity\\Comment.cs",
+              "RelativeDocumentMoniker": "..\\DomainEntity\\Entity\\Comment.cs",
+              "ToolTip": "D:\\Blog_Application\\BLOG_API\\DomainEntity\\Entity\\Comment.cs",
+              "RelativeToolTip": "..\\DomainEntity\\Entity\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:16:40.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogDBContext.cs",
+              "DocumentMoniker": "D:\\Blog_Application\\BLOG_API\\ApplicationInfrastructure\\DBContext\\BlogDBContext.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationInfrastructure\\DBContext\\BlogDBContext.cs",
+              "ToolTip": "D:\\Blog_Application\\BLOG_API\\ApplicationInfrastructure\\DBContext\\BlogDBContext.cs",
+              "RelativeToolTip": "..\\ApplicationInfrastructure\\DBContext\\BlogDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:11:28.425Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
